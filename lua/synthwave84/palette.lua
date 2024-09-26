@@ -1,6 +1,6 @@
 local colors = {
   fg = "#ffffff",
-  bg = "#262335",
+  bg = "#040404",
   alt_fg = "#ffffff",
   alt_bg = "#241B2F",
   line = "#241B2F",
